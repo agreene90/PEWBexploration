@@ -39,7 +39,7 @@ To view and run the notebook, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/anisotropic-warp-bubble-simulation.git
+    git clone https://github.com/agreene90/PEWBexploration.git
     ```
 2. Open the Jupyter Notebook:
    ```bash
