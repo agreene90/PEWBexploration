@@ -41,11 +41,7 @@ To view and run the notebook, follow these steps:
     ```bash
     git clone https://github.com/yourusername/anisotropic-warp-bubble-simulation.git
     ```
-2. Navigate to the repository directory:
-    ```bash
-    cd anisotropic-warp-bubble-simulation
-    ```
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```bash
     jupyter notebook Anisotropic_warpB.ipynb
    ```
