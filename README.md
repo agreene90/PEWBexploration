@@ -62,4 +62,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the BSD License.
+This project is licensed under the BSD-2 License.
