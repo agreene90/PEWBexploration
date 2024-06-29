@@ -6,6 +6,9 @@ This repository hosts the Jupyter Notebook for the simulation and analysis of an
 
 - `Anisotropic_warpB.ipynb`: The Jupyter Notebook containing the detailed simulation and analysis.
 - `README.md`: This readme file.
+- `awb.tex`: LaTeX file for detailed documentation.
+- `Illustrated_abstract.pdf`: PDF providing a visual summary of the project.
+- `pw2.py`: Python script used in the simulation.
 
 ## Introduction
 
@@ -32,7 +35,6 @@ The results demonstrate that a warp bubble can be sustained using positive energ
 
 1. Lentz, E. W. (2021). Closed timelike curves in Lorentzian wormholes and warp drive spacetimes.
 2. Alcubierre, M. (1994). The warp drive: hyper-fast travel within general relativity. Classical and Quantum Gravity, 11, L73-L77.
-
 ## Usage
 
 To view and run the notebook, follow these steps:
