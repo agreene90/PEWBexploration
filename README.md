@@ -1,7 +1,7 @@
 # Anisotropic Warp Bubble Simulation
 
 This repository hosts the Jupyter Notebook for the simulation and analysis of an anisotropic warp bubble using positive energy densities. The notebook explores a novel approach to creating a warp bubble, building on recent advancements by Eric Lentz. The methodology involves creating a spacetime grid, refining the metric tensor and energy-momentum tensor, and dynamically applying a warp factor. Numerical simulations analyze various configurations of bubble radius, density, and speed.
-
+![img](
 ## Contents
 
 - `Anisotropic_warpB.ipynb`: The Jupyter Notebook containing the detailed simulation and analysis.
