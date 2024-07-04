@@ -47,7 +47,7 @@ ___
    - **Process:** Calculates the warp field intensity using a Gaussian distribution centered at the origin.
    - **Output:** A plot showing the warp field intensity as a function of radial distance.
 
-2. **Greene’s Law Validation**
+2. **'Greene’s Law Validation*'**
    - **Function:** `anisotropic_warp_field`
    - **Parameters:** 
      - `x, y, z`: Spatial coordinates.
