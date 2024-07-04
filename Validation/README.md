@@ -1,4 +1,4 @@
-# README: Validation of Positive Energy Warp Field Principle and Anisotropic Warp Field Law
+# Validation of Positive Energy Warp Field Principle and Anisotropic Warp Field Law
 
 ## Introduction
 This document outlines the procedures and scripts used to validate two significant laws derived from the theoretical work on warp fields: the Positive Energy Warp Field Principle and the Anisotropic Warp Field Law. The validation is performed through numerical simulations and visualizations using Python.
