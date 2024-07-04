@@ -29,7 +29,9 @@ ___
 
 ## Greene’s Law
 **Law:** Warp bubbles exhibit inherent anisotropic properties that allow directional tuning and optimization of the warp field, enhancing control and reducing energy demands.
-
+___
+![GL.png](https://github.com/agreene90/PEWBexploration/blob/main/Validation/GL.PNG)
+___
 **Validation Method:**
 1. Define arrays for distance along the x, y, and z directions.
 2. Calculate the warp field intensity considering anisotropic properties.
