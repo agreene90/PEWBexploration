@@ -19,7 +19,7 @@ The provided script is designed to validate the Positive Energy Warp Field Princ
 
 ## Positive Energy Warp Field Principle
 **Law:** A warp field for faster-than-light travel can be generated and stabilized using non-exotic positive energy densities, contrary to traditional models relying on exotic negative energies.
-
+![Pe.png](
 **Validation Method:**
 1. Define a radial distance array.
 2. Calculate the warp field intensity using positive energy density.
