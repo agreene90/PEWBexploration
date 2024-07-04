@@ -27,7 +27,7 @@ ___
 2. Calculate the warp field intensity using positive energy density.
 3. Plot the warp field intensity against the radial distance.
 
-## Greene’s Law
+## *Greene’s Law
 **Law:** Warp bubbles exhibit inherent anisotropic properties that allow directional tuning and optimization of the warp field, enhancing control and reducing energy demands.
 ___
 ![GL.png](https://github.com/agreene90/PEWBexploration/blob/main/Validation/GL.PNG)
@@ -60,4 +60,4 @@ ___
    - **Output:** Plots showing the warp field intensity in x, y, and z directions, demonstrating anisotropic behavior.
 
 ## Conclusion
-This script provides a comprehensive method to validate the Positive Energy Warp Field Principle and "Greene’s Law" (brazenly coined) through numerical simulations and visualizations. The results offer insights into the feasibility and dynamics of warp fields using positive energy densities and anisotropic properties.
+This script provides a comprehensive method to validate the Positive Energy Warp Field Principle and "Greene’s Law" **(brazenly coined) through numerical simulations and visualizations. The results offer insights into the feasibility and dynamics of warp fields using positive energy densities and anisotropic properties.
