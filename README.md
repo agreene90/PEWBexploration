@@ -7,7 +7,7 @@ This repository hosts the Jupyter Notebook for the simulation and analysis of an
 - `Anisotropic_warpB.ipynb`: The Jupyter Notebook containing the detailed simulation and analysis.
 - `README.md`: This readme file.
 - `awb.tex`: LaTeX file for detailed documentation.
-- `Illustrated_abstract.pdf`: PDF providing a visual summary of the project.
+- `IJISRT24JUN1980.pdf`: PDF providing a visual summary of the project.
 - `pw2.py`: Python script used in the simulation.
 
 ## Introduction
